@@ -1232,6 +1232,69 @@ https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8?PlaylistM3UCL
 https://ss4.domint.net:3004/yv_str/yunavision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/763_Zol_106_5_FM.jpg", Zol 106.5 FM  | DO
 https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/3qB3JL7.png",Caçavision (HQ) PT
+https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/3qB3JL7.png",Caçavision (LQ) PT
+https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/3qB3JL7.png",Caçavision (MQ) PT
+https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/LvbXFUy.jpg",KTO (404p) PORT
+https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/GbQuvWG.png",Kuriakos Cine (1080p) PT
+http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/GbQuvWG.png",Kuriakos Cine (1080p) PT
+http://c2.manasat.com:1935/kcine/kcine3/iptvm3uplaylists.com.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/CZViCwB.jpg",Kuriakos Cine (1080p) PT
+http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/tfc2BYM.png",Kuriakos Kids (1080p) PT
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/GbQuvWG.png",Kuriakos Kids (1080p) PT
+http://c2.manasat.com:1935/kkids/kkids3/iptvm3uplaylists.com.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/aNVzKYJ.png",Kuriakos Kids (1080p) PT
+http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/q6K4S0N.png",Kuriakos Music (1080p) PT
+http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/Zl40NYi.jpg",Kuriakos Music (1080p) PT
+http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/M5i4hfh.png",Kuriakos TV (1080p) PT
+http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/GbQuvWG.png",Kuriakos TV (720p) PT
+http://195.22.11.11:1935/ktv/ktv1/iptvm3uplaylists.com.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://cdn.teleon.tv/logo/kuriakos_tv_pt.png",Kuriakos TV (576p) PT
+http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/2heM5qk.png",ON TV PT
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/300px-Logo_Porto_Canal.jpg",Porto Canal (360p) PT
+https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg",Porto Canal (360p) PT
+https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Porto_Canal_logo.jpg",Porto Canal Portugal PT (360p) PT
+https://streamer-b02.videos.sapo.pt/live/portocanal/master.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/106-563419141305.png",RTP Açores PT
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png",RTP Internacional (480p) PT
+http://210.210.155.35/qwr9ew/s/s38/index.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png",RTP Internacional PT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/107-443519141305.png",RTP Madeira PT
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/27-363219141305.png",RTP África [not 24/7] PT
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/5-563718101410.png",RTP1 [not 24/7] PT
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/64-393818101410.png",RTP3 [not 24/7] PT
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/jYIf7Mz.png",Sobrenatural TV (1080p) PT
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/VgzVZto.png",Sobrenatural TV (720p) PT
+http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/playlist.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F562035228473194414%2F&psig=AOvVaw3bnCF8JS9SOmBdlfRQkhQF&ust=1623173854668000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMD9yuGHhvECFQAAAAAdAAAAABAE",TV Fátima (1080p) PT
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/hCFVc5S.jpg",TV Fátima (1080p) PT
+https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="" group-title="",TVI Reality PT
+https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
 
 
 
