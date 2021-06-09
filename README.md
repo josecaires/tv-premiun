@@ -1092,6 +1092,147 @@ https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8?PlaylistM3UCL
 https://5ee0faac3bbae.streamlock.net:443/viatv2021/viatv2021/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="PERU" tvg-logo="https://www.m3u.cl/logo/688_Vision_TV.png", Vision TV  | PE
 https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/781_Elias_Pina_TV.png", Elias Piña TV * | DO
+https://mediastreamm.com:19360/jntv/jntv.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/887_Hits_360.png", Hits 360  | DO
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/19_TV_Exitos.png", TV Exitos  | DO
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/486_Orbit_TV.png", Orbit TV  | DO
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/861_Cielo_TV_Cristiana.png", Cielo TV Cristiana  | DO
+https://5e149b9159444.streamlock.net/cielotv/smil:cielotv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/182_Jesus_TV.png", Jesus TV  | DO
+https://cloudflare.streamgato.us:3037/live/jesustvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/853_La_Fe_Mueve_Montanas.png", La Fe Mueve Montanas  | DO
+https://inliveserver.com:1936/10020/10020/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/180_RVida_TV.png", RVida TV  | DO
+https://ss2.domint.net:3206/rv_str/rvida/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/190_Urbancris_TV.png", Urbancris TV  | DO
+https://5790d294af2dc.streamlock.net:443/8160/8160/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/193_Urbancrist2_Worship.png", Urbancrist2 Worship  | DO
+https://5790d294af2dc.streamlock.net:443/8090/8090/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/709_Acento_TV.png", Acento TV  | DO
+http://acentotv01.streamprolive.com/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/710_Ame.jpg", Amé  | DO
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/711_Bajo_Techo_TV.jpg", Bajo Techo TV  | DO
+https://cdn4.hostlagarto.com:8081/static/bajotechotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/712_Bonao_TV.jpg", Bonao TV  | DO
+https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/713_Boreal_Television.jpg", Boreal Televisión  | DO
+https://5b38ce71f1f00.streamlock.net/8180/8180/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/715_Canal_25_Santiago.jpg", Canal 25 Santiago  | DO
+https://ss3.domint.net:3122/c25_str/canal25/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/714_Canal_4_RD.png", Canal 4 RD  | DO
+http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/716_Canal_del_Sol.jpg", Canal del Sol  | DO
+http://canaldelsol01.streamprolive.com/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/717_Cibervision.jpg", Cibervision  | DO
+http://108.175.14.125:1935/tdn/tdn/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/718_Cinevision_Canal_19.jpg", Cinevision Canal 19  | DO
+http://cinevision01.streamprolive.com/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/719_Entelevision.jpg", Entelevision  | DO
+https://5d4a00b8a0738.streamlock.net/8068/8068/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/720_Farovision.png", Farovision  | DO
+https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/721_Fuego_TV.jpg", Fuego TV  | DO
+http://184.173.181.2:1935/8020/8020/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/722_GDM.png", GDM  | DO
+https://cm.hostlagarto.com:4445/gdmstudiotv/gdmstudiotv.myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/723_GH_Television.jpg", GH Television  | DO
+https://cloudflare.streamgato.us:3352/live/ghtelevisionhdlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/724_Global_TV.png", Global TV  | DO
+https://ss6.domint.net:3016/gtv_str/globalhd/manifest.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/725_Hilando_Fino.png", Hilando Fino  | DO
+https://4k-server-mia.2cdn.eu//HilandoFinoTV/ngrp:HilandoFinoTV_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/726_Luna_TV.png", Luna TV  | DO
+https://cdn4.hostlagarto.com:8081/static/lunatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/727_Megavision.png", Megavision  | DO
+http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/728_Microvision.jpg", Microvision  | DO
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/729_Musavision.jpg", Musavision  | DO
+https://cm.hostlagarto.com:4445/Musavisionhd/Musavisionhd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/730_Naranja_TV.jpg", Naranja TV  | DO
+https://cdn.streamingcpanel.com:3238/live/naranjatlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/731_Peravia_Vision.jpg", Peravia Vision  | DO
+http://ss6.domint.net:2002/pvv_str/peravia/chunklist_w715033938.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/845_Radio_105.png", Radio 105  | DO
+https://cloudflare.streamgato.us:3901/live/radio105live.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/732_Ready_TV.png", Ready TV  | DO
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/733_Resplandor_Vision.jpg", Resplandor Vision  | DO
+https://ss6.domint.net:2996/rtv_str/rvision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/734_RNN.png", RNN  | DO
+https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/735_Romana_TV.jpg", Romana TV  | DO
+http://tv.romanatv42.com/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/736_Sport_Vision.jpg", Sport Vision  | DO
+https://5b59c7a47236a.streamlock.net/sportvision35tv/sportvision35tv/manifest.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/737_Super_TV_55.jpg", Super TV 55  | DO
+https://ss8.domint.net:3128/stv_str/tv55/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/844_Tele_Caribe.png", Tele Caribe  | DO
+https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/848_Tele_Oriental_Digital.png", Tele Oriental Digital  | DO
+https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/738_Teleantillas.jpg", Teleantillas  | DO
+https://ss4.domint.net:3040/ta2_str/teleantillas/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/739_Telecanal_12.jpg", Telecanal 12  | DO
+https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/740_Telecanal_28.jpg", Telecanal 28  | DO
+http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/741_Telecentro.png", Telecentro  | DO
+http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/742_Telecibao.jpg", Telecibao  | DO
+https://cm.hostlagarto.com:4445/Telecibao/Telecibao/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/743_Telefuturo.png", Telefuturo  | DO
+http://ss8.domint.net:2118/tf_str/futu/chunklist_w1249734061.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/744_Telemilenio.png", Telemilenio  | DO
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/746_Telenord_10.png", Telenord 10  | DO
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/747_Telenord_12.jpg", Telenord 12  | DO
+http://newyorkstreamss2.ddns.net:28987/telenord12/telenord12/chunklist_w602884123.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/745_Telenord_8.jpg", Telenord 8  | DO
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/708_Telenovisa_43.png", Telenovisa 43  | DO
+http://caribeteve.ddns.net:1935/telenovisa43/telenovisa43/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/748_Teleradio_America.jpg", Teleradio America  | DO
+https://ss4.domint.net:3008/tra_str/canal45/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/749_Teleradio_Norte.jpg", Teleradio Norte  | DO
+https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/750_Telesistema.jpg", Telesistema  | DO
+http://ss3.domint.net:2114/t11_str/telesistema/chunklist_w44342477.m3u8?fluxustv.m3u8&PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/751_Teleunion.jpg", Teleunion  | DO
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/752_Teleuniverso_Canal_29.png", Teleuniverso Canal 29  | DO
+https://cloudflare.streamgato.us:3437/live/teleuniversotvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/753_Telever_Canal_12.jpg", Telever Canal 12  | DO
+http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/754_Television_A1.png", Television A1  | DO
+https://ss6.domint.net:2940/a1_str/a1tv/manifest.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/755_Television_del_Este.png", Televisión del Este  | DO
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8&PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/756_TNI_51.jpg", TNI 51  | DO
+https://ss8.domint.net:3126/tni_str/tni51/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/707_TV_Cotui.jpg", TV Cotui  | DO
+https://vdo2.streamgato.us:3095/live/tvcotuilive.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/757_TV_Montana.jpg", TV Montaña  | DO
+http://ss6.domint.net:2060/tvm_str/montanatv/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/758_TV_Plata.jpg", TV Plata  | DO
+https://ss6.domint.net:3104/tvp_str/tvplata/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/759_TVS_TV.png", TVS TV  | DO
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/760_Vallevision.png", Vallevisión  | DO
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/761_Vegavision_Canal_18.png", Vegavision Canal 18  | DO
+https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/762_Yunavision.jpg", Yunavision  | DO
+https://ss4.domint.net:3004/yv_str/yunavision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.m3u.cl/logo/763_Zol_106_5_FM.jpg", Zol 106.5 FM  | DO
+https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8?PlaylistM3UCL
+
 
 
 
