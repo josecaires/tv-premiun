@@ -56,7 +56,7 @@ http://tv5full.xyz:25461/rrbad4a3/mgvj56g3/1506
 #EXTINF:1 group-title="DOCUMENTALES" tvg-logo="https://adictosalatele.com/logos/discoverychannellatino.png",DISCOVERY CHANNEL HD
 http://tv5full.xyz:25461/rrbad4a3/mgvj56g3/1512
 #EXTINF:1 group-title="DOCUMENTALES" tvg-logo="https://adictosalatele.com/logos/invdiscovery.png",DISCOVERY ID HD
-http://heinentv.ddns.net:25461/wayne/wayne/5248
+http://tv5full.xyz:25461/rrbad4a3/mgvj56g3/1499
 #EXTINF:1 group-title="DOCUMENTALES" tvg-logo="https://corporate.discovery.com/wp-content/uploads/2014/02/science_channel_redux_logo_detail-267x300.jpg",DISCOVERY SCIENCIE
 http://heinentv.ddns.net:25461/wayne/wayne/16566
 #EXTINF:1 group-title="DOCUMENTALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/100px-World_Discovery_HD_logo.svg.png",DISCOVERY WORLD HD
@@ -69,8 +69,10 @@ http://tv5full.xyz:25461/rrbad4a3/mgvj56g3/1514
 http://tv5full.xyz:25461/rrbad4a3/mgvj56g3/1495
 #EXTINF:1 group-title="DOCUMENTALES" tvg-logo="https://www.verlatele.net/wp-content/uploads/2020/06/canal-nat-geo-wild-latino.png",NAT GEO WILD HD
 http://tv5full.xyz:25461/rrbad4a3/mgvj56g3/1497
-#EXTINF:1 group-title="DOCUMENTALES" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/History-Channel-Logo-500x313.png",HISTORY CHANNEL
+#EXTINF:1 group-title="DOCUMENTALES" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/History-Channel-Logo-500x313.png",HISTORY CHANNEL HD
 http://heinentv.ddns.net:25461/wayne/wayne/16572
+#EXTINF:1 group-title="DOCUMENTALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",HISTORY CHANNEL 2 HD
+http://tv5full.xyz:25461/rrbad4a3/mgvj56g3/39809
 #EXTINF:1 group-title="DEPORTES" tvg-logo="https://adictosaldeporte.com/logos/espnar.png",ESPN HD
 http://heinentv.ddns.net:25461/wayne/wayne/5175
 #EXTINF:1 group-title="DEPORTES" tvg-logo="https://adictosaldeporte.com/logos/espn2ar.png",ESPN 3 HD
@@ -113,8 +115,16 @@ http://tv5full.xyz:25461/rrbad4a3/mgvj56g3/1469
 http://ipeteve.com/php/SR_REGIO_9999/regio22.php?c=boomerang&f=.m3u8
 #EXTINF:1 group-title="INFANTILES" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Nickelodeon-Logo.png",NICKELODEON HD
 http://5.255.90.184:2001/play/a04d
+#EXTINF:1 group-title="INFANTILES" tvg-logo="http://logos.iptv.wtf/infantiles/nickjr.png",NICK JR HD
+http://tv5full.xyz:25461/rrbad4a3/mgvj56g3/19489
+#EXTINF:1 group-title="INFANTILES" tvg-logo="http://logos.iptv.wtf/infantiles/nick2.png",NICK JR 2 HD
+http://tv5full.xyz:25461/rrbad4a3/mgvj56g3/1464
+#EXTINF:1 group-title="INFANTILES" tvg-logo="https://logodix.com/logo/1933649.png",TOONCAST HD
+http://tv5full.xyz:25461/rrbad4a3/mgvj56g3/1457
 #EXTINF:1 group-title="INFANTILES" tvg-logo="https://logodix.com/logo/1099060.png",BABY TV HD
 http://5.255.90.184:2002/play/a01v
+#EXTINF:1 group-title="INFANTILES" tvg-logo="http://logos.iptv.wtf/infantiles/natgeokids.png",NAT GEO KIDS
+http://tv5full.xyz:25461/rrbad4a3/mgvj56g3/1465
 #EXTINF:1 group-title="VARIEDADES" tvg-logo="https://www.m3u.cl/logo/511_DW_Espanol.png",DW ESPAÑOL HD
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8?PlaylistM3UCL
 #EXTINF:1 group-title="VARIEDADES" tvg-logo="https://www.m3u.cl/logo/516_France_24.png",FRANCE ESPAÑOL HD
