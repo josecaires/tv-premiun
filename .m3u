@@ -12,11 +12,11 @@ http://tv5full.xyz:25461/rrbad4a3/mgvj56g3/1519
 #EXTINF:1 group-title="SERIES Y PELICULA" tvg-logo="https://adictosalatele.com/logos/hbo.png",HBO HD
 http://heinentv.ddns.net:25461/wayne/wayne/5373
 #EXTINF:1 group-title="SERIES Y PELICULA" tvg-logo="https://adictosalatele.com/logos/hbo2.png",HBO 2 HD
-http://tv5full.xyz:25461/rrbad4a3/mgvj56g3/1539
+http://heinentv.ddns.net:25461/wayne/wayne/5376
 #EXTINF:1 group-title="SERIES Y PELICULA" tvg-logo="https://adictosalatele.com/logos/hboplus.png",HBO PLUS HD
-http://tv5full.xyz:25461/rrbad4a3/mgvj56g3/39806
+http://heinentv.ddns.net:25461/wayne/wayne/5377
 #EXTINF:1 group-title="SERIES Y PELICULA" tvg-logo="https://adictosalatele.com/logos/hbofamily.png",HBO FAMILY HD
-http://tv5full.xyz:25461/rrbad4a3/mgvj56g3/39805
+http://heinentv.ddns.net:25461/wayne/wayne/5375
 #EXTINF:1 group-title="SERIES Y PELICULA" tvg-logo="https://www.verlatele.net/wp-content/uploads/2020/06/canal-fx-latino.jpg",FX HD
 http://tv5full.xyz:25461/rrbad4a3/mgvj56g3/1534
 #EXTINF:1 group-title="SERIES Y PELICULA" tvg-logo="https://www.verlatele.net/wp-content/uploads/2020/06/canal-tnt-series-latino.png",TNT SERIES HD
@@ -25,10 +25,16 @@ http://tv5full.xyz:25461/rrbad4a3/mgvj56g3/1562
 http://tv5full.xyz:25461/rrbad4a3/mgvj56g3/1560
 #EXTINF:1 group-title="SERIES Y PELICULA" tvg-logo="https://www.verlatele.net/wp-content/uploads/2020/06/canal-fmx-latino.png",FXM HD
 http://tv5full.xyz:25461/rrbad4a3/mgvj56g3/1535
+#EXTINF:1 group-title="SERIES Y PELICULA" tvg-logo="https://www.syfy.es/sites/all/themes/pint_themes/base_syfywire/logo.svg",SYFY
+http://heinentv.ddns.net:25461/wayne/wayne/525
+#EXTINF:1 group-title="SERIES Y PELICULA" tvg-logo="https://duoylvxxmi2z2.cloudfront.net/hashtag/assets/tbs/logo-footer.png",TBS LATINO
+http://heinentv.ddns.net:25461/wayne/wayne/525
+#EXTINF:1 group-title="SERIES Y PELICULA" tvg-logo="https://duoylvxxmi2z2.cloudfront.net/hashtag/assets/trutv/logo-footer.png",TRU TV 
+http://heinentv.ddns.net:25461/wayne/wayne/5255
 #EXTINF:1 group-title="SERIES Y PELICULA" tvg-logo="https://verlatele.net/wp-content/uploads/2020/05/paramount-channel-150x150.jpg"PARAMOUNT CHANNEL HD
 http://tv5full.xyz:25461/rrbad4a3/mgvj56g3/1544
 #EXTINF:1 group-title="SERIES Y PELICULA" tvg-logo="https://www.verlatele.net/wp-content/uploads/2020/06/canal-sony-channel-latino.jpg",SONY CHANNEL HD
-http://tv5full.xyz:25461/rrbad4a3/mgvj56g3/1545
+http://heinentv.ddns.net:25461/wayne/wayne/5250
 #EXTINF:1 group-title="SERIES Y PELICULA" tvg-logo="https://www.verlatele.net/wp-content/uploads/2020/06/canal-space-latino.jpg",SPACE HD
 http://tv5full.xyz:25461/rrbad4a3/mgvj56g3/1547
 #EXTINF:1 group-title="SERIES Y PELICULA" tvg-logo="https://www.verlatele.net/wp-content/uploads/2020/06/canal-fox-classics-premium.png",STAR CLASSIC HD
@@ -50,7 +56,9 @@ http://tv5full.xyz:25461/rrbad4a3/mgvj56g3/1506
 #EXTINF:1 group-title="DOCUMENTALES" tvg-logo="https://adictosalatele.com/logos/discoverychannellatino.png",DISCOVERY CHANNEL HD
 http://tv5full.xyz:25461/rrbad4a3/mgvj56g3/1512
 #EXTINF:1 group-title="DOCUMENTALES" tvg-logo="https://adictosalatele.com/logos/invdiscovery.png",DISCOVERY ID HD
-http://tv5full.xyz:25461/rrbad4a3/mgvj56g3/1499
+http://heinentv.ddns.net:25461/wayne/wayne/524
+#EXTINF:1 group-title="DOCUMENTALES" tvg-logo="https://corporate.discovery.com/wp-content/uploads/2014/02/science_channel_redux_logo_detail-267x300.jpg",DISCOVERY SCIENCIE
+http://heinentv.ddns.net:25461/wayne/wayne/16566
 #EXTINF:1 group-title="DOCUMENTALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/100px-World_Discovery_HD_logo.svg.png",DISCOVERY WORLD HD
 http://tv5full.xyz:25461/rrbad4a3/mgvj56g3/1504
 #EXTINF:1 group-title="DOCUMENTALES" tvg-logo="https://adictosalatele.com/logos/discoveryhh.png",DISCOVERY H&H HD
@@ -61,8 +69,10 @@ http://tv5full.xyz:25461/rrbad4a3/mgvj56g3/1514
 http://tv5full.xyz:25461/rrbad4a3/mgvj56g3/1495
 #EXTINF:1 group-title="DOCUMENTALES" tvg-logo="https://www.verlatele.net/wp-content/uploads/2020/06/canal-nat-geo-wild-latino.png",NAT GEO WILD HD
 http://tv5full.xyz:25461/rrbad4a3/mgvj56g3/1497
+#EXTINF:1 group-title="DOCUMENTALES" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/History-Channel-Logo-500x313.png",HISTORY CHANNEL
+http://heinentv.ddns.net:25461/wayne/wayne/16572
 #EXTINF:1 group-title="DEPORTES" tvg-logo="https://adictosaldeporte.com/logos/espnar.png",ESPN HD
-http://tecnotv.club/2131/smart.php?c=aztecauno&f=.m3u8
+http://heinentv.ddns.net:25461/wayne/wayne/5175
 #EXTINF:1 group-title="DEPORTES" tvg-logo="https://adictosaldeporte.com/logos/espn2ar.png",ESPN 3 HD
 http://heinentv.ddns.net:25461/wayne/wayne/5176
 #EXTINF:1 group-title="DEPORTES" tvg-logo="https://adictosaldeporte.com/logos/directvsports.png",DIRECTV SPORT HD
